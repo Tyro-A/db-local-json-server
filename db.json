@@ -6,14 +6,24 @@
       "author": "typicode"
     }
   ],
-  "comments": [
+  "users": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "name": "anjorie",
+      "email": "anjorie@test.com",
+      "address": "Philippines"
+    },
+    {
+      "id": 2,
+      "name": "rie",
+      "email": "rie@test.com",
+      "address": "Japan"
+    },
+    {
+      "id": 3,
+      "name": "kie rie",
+      "email": "kirie@test.com",
+      "address": "Canada"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
